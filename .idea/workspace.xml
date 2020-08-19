@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec35cc99-194a-44a1-8e51-5d81bb95a2a6" name="Default Changelist" comment="" />
+    <list default="true" id="ec35cc99-194a-44a1-8e51-5d81bb95a2a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Requests/CategoryTagRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Requests/CategoryTagRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/navbar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/navbar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +26,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -150,6 +159,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Services" />
       <recent name="$PROJECT_DIR$/resources/views" />
       <recent name="$PROJECT_DIR$/resources/views/layouts/articles" />
       <recent name="$PROJECT_DIR$/resources/views/layouts" />
@@ -171,7 +181,9 @@
       <updated>1597642677371</updated>
       <workItem from="1597642678532" duration="14531000" />
       <workItem from="1597660620930" duration="5769000" />
-      <workItem from="1597718784688" duration="31273000" />
+      <workItem from="1597718784688" duration="31496000" />
+      <workItem from="1597805016158" duration="6319000" />
+      <workItem from="1597811371296" duration="319000" />
     </task>
     <servers />
   </component>
@@ -187,10 +199,10 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="416" y="156" width="524" height="480" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.28.1366.740@0.28.1366.740" timestamp="1597741225532" />
-    <state x="479" y="319" width="297" height="153" key="NewPhpFileDialog" timestamp="1597740022332">
+    <state x="479" y="319" width="287" height="153" key="NewPhpFileDialog" timestamp="1597806302490">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="479" y="319" width="297" height="153" key="NewPhpFileDialog/0.28.1366.740@0.28.1366.740" timestamp="1597740022332" />
+    <state x="479" y="319" width="287" height="153" key="NewPhpFileDialog/0.28.1366.740@0.28.1366.740" timestamp="1597806302490" />
     <state x="172" y="33" key="SettingsEditor" timestamp="1597658249935">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
@@ -199,9 +211,9 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="347" y="177" key="run.anything.popup/0.28.1366.740@0.28.1366.740" timestamp="1597741108418" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1597750636982">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1597810890641">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.28.1366.740@0.28.1366.740" timestamp="1597750636982" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.28.1366.740@0.28.1366.740" timestamp="1597810890641" />
   </component>
 </project>

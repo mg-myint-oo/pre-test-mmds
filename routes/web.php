@@ -24,8 +24,15 @@ Route::resource('/articles', 'ArticleController');
 Route::put('/articles/publish/{id}', 'ArticleController@publish')
         -> name('articles.publish');
 
-Route::get('categories/create', 'CategoryController@create') -> name('categories.create');
-Route::post('categories/save', 'CategoryController@store') -> name('categories.save');
+Route::get('/categories/create', 'CategoryController@create')
+        -> name('categories.create');
+Route::post('categories/save', 'CategoryController@store')
+        -> name('categories.save');
 
-Route::get('tags/create', 'TagController@create') -> name('tags.create');
-Route::post('tags/save', 'TagController@store') -> name('tags.save');
+Route::get('/tags/create', 'TagController@create')
+        -> name('tags.create');
+Route::post('/tags/save', 'TagController@store')
+        -> name('tags.save');
+
+Route::get('/user/profile', 'UserController@profile')
+        -> name('user.profile');
