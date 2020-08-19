@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec35cc99-194a-44a1-8e51-5d81bb95a2a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Services/ArticleService.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Services/ArticleService.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/category-tag-create-form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/category-tag-create-form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +146,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Console/Commands" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -154,6 +157,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Console/Commands" />
+      <recent name="$PROJECT_DIR$/app/Console/Stubs" />
+      <recent name="$PROJECT_DIR$/app/Console/stubs" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/Services" />
       <recent name="$PROJECT_DIR$/resources/views" />
@@ -179,7 +187,7 @@
       <workItem from="1597660620930" duration="5769000" />
       <workItem from="1597718784688" duration="31496000" />
       <workItem from="1597805016158" duration="6319000" />
-      <workItem from="1597811371296" duration="639000" />
+      <workItem from="1597811371296" duration="9841000" />
     </task>
     <servers />
   </component>
@@ -187,18 +195,22 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="254" y="28" width="838" height="736" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597660641069">
+    <state x="364" y="190" width="628" height="412" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597815955515">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="254" y="28" width="838" height="736" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.28.1366.740@0.28.1366.740" timestamp="1597660641069" />
+    <state x="364" y="190" width="628" height="412" key="#com.intellij.fileTypes.FileTypeChooser/0.28.1366.740@0.28.1366.740" timestamp="1597815955515" />
+    <state x="254" y="28" width="838" height="736" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597820223181">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="254" y="28" width="838" height="736" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.28.1366.740@0.28.1366.740" timestamp="1597820223181" />
     <state x="416" y="156" width="524" height="480" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1597741225532">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="416" y="156" width="524" height="480" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.28.1366.740@0.28.1366.740" timestamp="1597741225532" />
-    <state x="479" y="319" width="287" height="153" key="NewPhpFileDialog" timestamp="1597806302490">
+    <state x="479" y="319" width="277" height="153" key="NewPhpFileDialog" timestamp="1597815880576">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="479" y="319" width="287" height="153" key="NewPhpFileDialog/0.28.1366.740@0.28.1366.740" timestamp="1597806302490" />
+    <state x="479" y="319" width="277" height="153" key="NewPhpFileDialog/0.28.1366.740@0.28.1366.740" timestamp="1597815880576" />
     <state x="172" y="33" key="SettingsEditor" timestamp="1597658249935">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
@@ -207,9 +219,9 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="347" y="177" key="run.anything.popup/0.28.1366.740@0.28.1366.740" timestamp="1597741108418" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1597810890641">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1597826349057">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.28.1366.740@0.28.1366.740" timestamp="1597810890641" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.28.1366.740@0.28.1366.740" timestamp="1597826349057" />
   </component>
 </project>

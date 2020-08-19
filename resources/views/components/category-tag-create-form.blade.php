@@ -1,4 +1,4 @@
-<form action="@if($type === "category") {{ route('categories.save') }} @elseif($type === "tag") {{ route('tags.save') }} @endif" method="post">
+<form action="@if($type === "category") {{ route('categories.store') }} @elseif($type === "tag") {{ route('tags.store') }} @endif" method="post">
     @csrf
     <div class="form-group">
         <label for="name">Name:</label>

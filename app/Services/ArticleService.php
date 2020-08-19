@@ -86,8 +86,4 @@ class ArticleService
         return $this -> articleRepository -> update($data, $article -> id);
     }
 
-    public function search(Request $request) {
-        ddd($title);
-    }
-
 }
