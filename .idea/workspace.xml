@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec35cc99-194a-44a1-8e51-5d81bb95a2a6" name="Default Changelist" comment="" />
+    <list default="true" id="ec35cc99-194a-44a1-8e51-5d81bb95a2a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/Http/Requests/CategoryTagRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Requests/CategoryTagRequest.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -172,6 +177,7 @@
       <workItem from="1597642678532" duration="14531000" />
       <workItem from="1597660620930" duration="5769000" />
       <workItem from="1597718784688" duration="31273000" />
+      <workItem from="1597811347097" duration="21000" />
     </task>
     <servers />
   </component>
@@ -199,9 +205,9 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="347" y="177" key="run.anything.popup/0.28.1366.740@0.28.1366.740" timestamp="1597741108418" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1597750636982">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1597811351413">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.28.1366.740@0.28.1366.740" timestamp="1597750636982" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.28.1366.740@0.28.1366.740" timestamp="1597811351413" />
   </component>
 </project>
